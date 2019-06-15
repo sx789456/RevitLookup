@@ -1,5 +1,5 @@
 2 file add one line 
-
+ one change this line
 add something
 
 改了第二个
